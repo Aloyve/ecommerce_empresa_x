@@ -12,7 +12,7 @@ _checkout, **tela de produto**, catálogo, home com banner_
 
 **melhoria 1**, _melhoria 2_
 
-###Linguagens do projeto:
+### Linguagens do projeto:
 
 - HTML
 - CSS
