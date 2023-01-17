@@ -1,2 +1,7 @@
-# ecommerce_empresa_x
-Este é um e-commerce para a empresa X,feito em PQP e MySQL.
+# E-COMMERCE EMPRESA X
+
+Vamos criar um e-commerce,para a empresa x e v
+
+## FUNCIONALIDADES:
+
+checkout, tela de produto, catálogo, home co banner
