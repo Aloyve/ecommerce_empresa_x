@@ -1,6 +1,6 @@
 # E-COMMERCE EMPRESA X
 
-Vamos criar um e-commerce,para a empresa x e v
+Vamos criar um **e-commerce**,para a _empresa x_ e v
 
 ## FUNCIONALIDADES:
 
