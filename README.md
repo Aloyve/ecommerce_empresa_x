@@ -11,3 +11,11 @@ _checkout, **tela de produto**, catálogo, home com banner_
 ###### melhorias do projeto
 
 **melhoria 1**, _melhoria 2_
+
+###Linguagens do projeto:
+
+- HTML
+- CSS
+- javaScript
+- PHP
+- MySQL
