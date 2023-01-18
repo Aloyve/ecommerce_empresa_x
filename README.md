@@ -28,3 +28,11 @@ _checkout, **tela de produto**, catálogo, home com banner_
    3. css diferente para grupo de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![logo do lp](img/lp.png)
+
+#### Imagen externa
+
+![logo do lp](https://logodix.com/logo/411028.png)
