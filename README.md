@@ -31,7 +31,7 @@ _checkout, **tela de produto**, catálogo, home com banner_
 
 #### Imagem local
 
-![logo do lp](img/lp.png)
+![logo do lp](/home/ark/aloyve-2/.git/curso_pt_6/ecommerce/img)
 
 #### Imagen externa
 
