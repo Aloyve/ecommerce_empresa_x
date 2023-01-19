@@ -49,7 +49,7 @@ Contribuidor principal: https://www.github.com/Aloyve
 
 ## Código da função soma
 
-´´´ javascript
+´´´javascript
 function soma(a, b){
 return a + b;
 }
