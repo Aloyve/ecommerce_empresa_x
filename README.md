@@ -46,3 +46,11 @@ _checkout, **tela de produto**, catálogo, home com banner_
 Contribuidor principal: https://www.github.com/Aloyve
 
 [![Logo lp](https://logodix.com/logo/411028.png)](https://www.github.com/Aloyve)
+
+## Código da função soma
+
+´´´javascript
+function soma(a, b){
+return a + b;
+}
+´´´
