@@ -44,3 +44,5 @@ _checkout, **tela de produto**, catálogo, home com banner_
 [https://github.com/Aloyve](https://github.com/Aloyve)
 
 Contribuidor principal: https://www.github.com/Aloyve
+
+[![Logo lp](https://logodix.com/logo/411028.png)](https://www.github.com/Aloyve)
