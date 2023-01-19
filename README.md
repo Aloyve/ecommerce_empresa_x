@@ -42,3 +42,5 @@ _checkout, **tela de produto**, catálogo, home com banner_
 [Google](https://www.google.com)
 
 [https://github.com/Aloyve](https://github.com/Aloyve)
+
+Contribuidor principal: https://www.github.com/Aloyve
