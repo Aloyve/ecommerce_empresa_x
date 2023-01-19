@@ -36,3 +36,9 @@ _checkout, **tela de produto**, catálogo, home com banner_
 #### Imagen externa
 
 ![logo do lp](https://logodix.com/logo/411028.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
+
+[https://github.com/Aloyve](https://github.com/Aloyve)
